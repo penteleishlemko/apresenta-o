@@ -11,9 +11,9 @@
 
 ---
 
-##  Tecnologias e Ferramentas
+<h1 align="center">Tecnologias e Ferramentas</h1>
 
-###  Linguagens & Frameworks
+<h1 align="center">inguagens & Frameworks</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-###  Ferramentas & Ambiente
+<h1 align="center">Ferramentas & Ambiente</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -32,7 +32,7 @@
 
 ---
 
-##  Projetos em Destaque
+<h1 align="center">Projetos em Destaque</h1>
 
 *   **[PAP]** — Plataforma de marcação de consultas de estética desenvolvida no âmbito da Prova de Aptidão Profissional (PHP, MySQL, JavaScript).
 *   **[Estágio]** — Aplicação web full-stack para gestão de membros e quotas desenvolvida durante o estágio curricular na NewIt.
@@ -41,7 +41,7 @@
 
 ---
 
-##  Onde Encontrar-me
+<h1 align="center"> Onde Encontrar-me</h1>
 
 *    **LinkedIn:** pentelei shlemko
 *   **Email:** shlemko1708@gmail.com
