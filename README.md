@@ -1,7 +1,6 @@
 <h1 align="center">Pentelei Shlemko </h1>
 
 <p align="center">
-
   <a href="https://github.com/TEU_USERNAME_GITHUB"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub Profile"></a>
 </p>
 
