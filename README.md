@@ -39,14 +39,6 @@
 *   **[Estágio]** — Aplicação web full-stack para gestão de membros e quotas desenvolvida durante o estágio curricular na NewIt.
 
 
----
-
-##  Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" />
-</p>
 
 ---
 
