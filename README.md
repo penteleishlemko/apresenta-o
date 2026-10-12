@@ -11,7 +11,7 @@
 
 ---
 
-<h1 align="center">Tecnologias e Ferramentas</h1>
+<h1 align="left">Tecnologias e Ferramentas</h1>
 
 <h2>inguagens & Frameworks</h2>
 <div align="left">
