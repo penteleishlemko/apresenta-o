@@ -1,7 +1,7 @@
 <h1 align="center">Pentelei Shlemko </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghprofile/gist?username=penteleishlemkoB&color=blueviolet&style=flat-square" alt="Profile Views" />
+
   <a href="https://github.com/TEU_USERNAME_GITHUB"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub Profile"></a>
 </p>
 
