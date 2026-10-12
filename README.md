@@ -25,7 +25,6 @@
 
 ###  Ferramentas & Ambiente
 <div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
@@ -36,8 +35,8 @@
 
 ##  Projetos em Destaque
 
-*   **[Nome do Projeto / PAP]** — Plataforma de marcação de consultas de estética desenvolvida no âmbito da Prova de Aptidão Profissional (PHP, MySQL, JavaScript).
-*   **[Nome do Projeto / Estágio]** — Aplicação web full-stack para gestão de membros e quotas desenvolvida durante o estágio curricular na NewIt.
+*   **[PAP]** — Plataforma de marcação de consultas de estética desenvolvida no âmbito da Prova de Aptidão Profissional (PHP, MySQL, JavaScript).
+*   **[Estágio]** — Aplicação web full-stack para gestão de membros e quotas desenvolvida durante o estágio curricular na NewIt.
 
 
 ---
@@ -51,7 +50,7 @@
 
 ---
 
-## 📫 Onde Encontrar-me
+##  Onde Encontrar-me
 
-*   💼 **LinkedIn:** [Inserir Link do LinkedIn]
-*   📧 **Email:** [Inserir o teu Email]
+*    **LinkedIn:** pentelei shlemko
+*   **Email:** shlemko1708@gmail.com
